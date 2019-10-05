@@ -1,11 +1,11 @@
 {
   "name": "plop",
-  "version": "2.4.0",
+  "version": "2.5.0-beta",
   "description": "Micro-generator framework that makes it easy for an entire team to create files with a level of uniformity",
   "main": "./src/plop.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/amwmedia/plop.git"
+    "url": "https://github.com/ArchiCroc/plop.git"
   },
   "keywords": [
     "generator",
@@ -20,7 +20,7 @@
   "author": "Andrew Worcester <andrew@amwmedia.com> (http://amwmedia.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/amwmedia/plop/issues"
+    "url": "https://github.com/ArchiCroc/plop/issues"
   },
   "devDependencies": {
     "inquirer-directory": "^2.2.0",
@@ -32,7 +32,7 @@
     "interpret": "^1.2.0",
     "liftoff": "^2.5.0",
     "minimist": "^1.2.0",
-    "node-plop": "~0.19.0",
+    "node-plop": "ArchiCroc/v0.20.0-beta",
     "ora": "^3.4.0",
     "v8flags": "^2.0.10"
   },
